@@ -1,0 +1,31 @@
+{
+  "name": "express-api-stamps",
+  "version": "1.0.0",
+  "description": "Returns the timestamp, method, path, and IP of a request.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamxu88/express-api-stamps.git"
+  },
+  "type": "module",
+  "keywords": [
+    "express",
+    "api",
+    "logger",
+    "console",
+    "timestamp",
+    "stamp",
+    "information",
+    "http",
+    "request"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamxu88/express-api-stamps/issues"
+  },
+  "homepage": "https://github.com/jamxu88/express-api-stamps#readme"
+}
